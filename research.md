@@ -23,10 +23,15 @@
  
  For example:
  > 35
+ > 
  > 35:2=17 r(1)
+ > 
  > 17:2=8 R(1)
+ > 
  > 8:2=4 R(0)
+ > 
  > 4:2=2 R(0)
+ > 
  > 2:2=1 R(0)
 
 Then we should rearrange remainders from the left to the right starting from the last one. 
