@@ -10,8 +10,8 @@
        -  It means high potential at emitter and low potential at collector.
        
   It has 3 elements:**emitter collecter and base.**
-  - 'emittter'emits the electrons which pass through device.
-    - 'collector' collect them while thes pass through the device.
+  1. 'emittter'emits the electrons which pass through device.
+   2. 'collector' collect them while thes pass through the device.
   
 ## 10luq say sistemi və 2lik say sistemi arasında konvertasiya necə aparılır
 *10luq say sistemindəki bir ədədə 2lik say sisteminə necə çevirə bilərik?*
