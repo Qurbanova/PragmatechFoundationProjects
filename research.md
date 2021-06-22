@@ -54,8 +54,7 @@ Then we should rearrange remainders from the left to the right starting from the
     
 
 
-[sources](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
+[sources for transistors](https://www.explainthatstuff.com/howtransistorswork., //www.electronics-notes.com/articles/electronic_components/transistor/how-does-a-transistors-works-basics-tutorial.php)
 
 
 
