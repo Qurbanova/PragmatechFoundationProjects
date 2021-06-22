@@ -54,8 +54,13 @@ Then we should rearrange remainders from the left to the right starting from the
     
 
 
-[sources for transistors](https://www.explainthatstuff.com/howtransistorswork., //www.electronics-notes.com/articles/electronic_components/transistor/how-does-a-transistors-works-basics-tutorial.php)
+[sources for transistors](https://www.explainthatstuff.com/howtransistorswork.) 
+[sources for transistors](https://www.electronics-notes.com/articles/electronic_components/transistor/how-does-a-transistors-works-basics-tutorial.php)
+[sources for conversion of numbers](https://www.tutorialspoint.com/computer_logical_organization/number_system_conversion.htm)
+[sources for conversion of numbers](https://www.youtube.com/watch?v=rsxT4FfRBaM)
 
+
+ 
 
 
 
