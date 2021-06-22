@@ -45,18 +45,21 @@ Then we should rearrange remainders from the left to the right starting from the
   2. Then we multiply o and 1 with their degrees and find the sum of them.
     For example;
     
-    >1010010
+   >1010010
     
-    >1*2('6)+0*2('5)+1*2('4)+0*2('3)+0*2('2)+1*2('1)+0*2('0)=64+0+16+0+0+2+0=82
+   >1*2('6)+0*2('5)+1*2('4)+0*2('3)+0*2('2)+1*2('1)+0*2('0)=64+0+16+0+0+2+0=82
     
-    > IT MEANS that **1010010**(binary)= **82** (decimal)
+   > IT MEANS that **1010010**(binary)= **82** (decimal)
     
     
 
 
 [sources for transistors](https://www.explainthatstuff.com/howtransistorswork.) 
+
 [sources for transistors](https://www.electronics-notes.com/articles/electronic_components/transistor/how-does-a-transistors-works-basics-tutorial.php)
+
 [sources for conversion of numbers](https://www.tutorialspoint.com/computer_logical_organization/number_system_conversion.htm)
+
 [sources for conversion of numbers](https://www.youtube.com/watch?v=rsxT4FfRBaM)
 
 
