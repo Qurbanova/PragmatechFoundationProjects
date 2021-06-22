@@ -14,7 +14,9 @@
    2. ***Collector***: collect them while thes pass through the device.
    3. ***Base***: The middle section which forms two pn junctions between the emitter and collector. The base-emitter junction is forward biased, allowing low resistance for the emitter circuit. The base-collector junction is reverse biased and provides high resistance in the collector circuit.
   
-### How to convert between 10-digit number system and 2-digit number system?
+### How to convert between 10-digit number system and 2-digit number system?de
+  - In binary numbers we use just 2 digits:0 and 1.(2 lik say sistemi)
+  - In decimal numbers we use 10 digits; from 0 to .(10 luq say sistemi)
 
 
 
