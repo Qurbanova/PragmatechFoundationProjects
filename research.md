@@ -18,7 +18,7 @@
   - In binary numbers we use just 2 digits: 0 and 1.(2 lik say sistemi)
   - In decimal numbers we use 10 digits; from 0 to .(10 luq say sistemi)
  
-  ### *When i want to convert decimal number to binary number*
+  ## *When i want to convert decimal number to binary number*
   1. We should devide it 2 till the result will be 1.
   2. Then we use remainders, arrange them from the bottom the the top.
  
@@ -40,7 +40,7 @@ Then we should rearrange remainders from the left to the right starting from the
 > 00011
 > So, **35**(decimal)=**00011**(binary)
 
-  ## When i want to convert binary number to decimal number 
+  ## *When i want to convert binary number to decimal number*
   1. We should write the degree of the digits from the left to the right
   2. Then we multiply o and 1 with their degrees and find the sum of them.
     For example;
