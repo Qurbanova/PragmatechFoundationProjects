@@ -20,6 +20,10 @@ p {
     color: white;
 }
 
+a {
+    text-decoration: none !important;
+}
+
 h2 .content__text {
     font-family: 'Libre Baskerville', serif;
     font-size: 42px;
@@ -541,5 +545,20 @@ ul {
     letter-spacing: 2.5px;
     color: rgba(0, 0, 0, 0.5);
     margin-bottom: 1.2rem;
+    text-decoration: none;
+}
+
+.col-blck-left>a>h2,
+.col-blck-right>a>h2 {
+    font-family: "Libre Baskerville", serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 45px;
+    letter-spacing: 0;
+    color: black;
+    width: 77%;
+}
+
+.prev__next {
     text-decoration: none;
 }
