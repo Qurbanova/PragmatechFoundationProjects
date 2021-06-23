@@ -89,20 +89,15 @@ To convert source code into machine code, we use either a compiler or an interpr
 - Python has procedural programming, whereas Java-Script does not have.
 - Java-Script has; as a statement terminator, whereas python has a newline.
 - Python is a better-designed language that makes it easy to maintain, whereas JavaScript is poor.
-Python is not good for mobile development, whereas Java-Script is good.
-Python is slow to run compared to JavaScript.
-Python provides a huge standard library, whereas JavaScript has a limited standard library.
-Python heavily relies on assignments with no difference between variables and assignment, whereas JavaScript doesn’t relay.
-Python has many libraries for scientific computing, data analytics, and machine learning, whereas JavaScript does not.
-Python has support for many numeral data types like int, float, fixed-point decimal, whereas Java-Script mainly works on floating-point variables.
-Python has an inbuilt REPL, whereas JavaScript does not have.
-JavaScript runs on both browser and server, whereas python is mostly used for server-side programming.
-Python is easy to get started compared to JavaScript.
-Python is easy to find new jobs compared to JavaScript in this year.
-Python object-based is nearly equal to JavaScript, and python supports a programming style that uses simple functions and variables.
-JavaScript is the most complex modern programming language compared to python.
-Python and JavaScript both use a lexical scope with small differences.
-Python has a Self-argument as the first argument for each method, whereas JavaScript has accessed the object using “this”.
-Unlike JavaScript, python does not have a way to inherit from instances.
-Python is good if we do data analytics, machine learning or math-intensive operations, whereas JavaScript is good for building a website or native applications as it took less time for UI work.
+- Python is not good for mobile development, whereas Java-Script is good.
+- Python is slow to run compared to JavaScript.
+- Python provides a huge standard library, whereas JavaScript has a limited standard library.
+- Python heavily relies on assignments with no difference between variables and assignment, whereas JavaScript doesn’t relay.
+- Python has many libraries for scientific computing, data analytics, and machine learning, whereas JavaScript does not.
+- Python has support for many numeral data types like int, float, fixed-point decimal, whereas Java-Script mainly works on floating-point variables.
+- Python has an inbuilt REPL, whereas JavaScript does not have.
+- JavaScript runs on both browser and server, whereas python is mostly used for server-side programming.
+- Python is easy to get started compared to JavaScript.
+- Python is easy to find new jobs compared to JavaScript in this year.
+- Python object-based is nearly equal to JavaScript, and python supports a programming style that uses simple functions and variables.
   
