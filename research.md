@@ -97,7 +97,4 @@ To convert source code into machine code, we use either a compiler or an interpr
 - Python has support for many numeral data types like int, float, fixed-point decimal, whereas Java-Script mainly works on floating-point variables.
 - Python has an inbuilt REPL, whereas JavaScript does not have.
 - JavaScript runs on both browser and server, whereas python is mostly used for server-side programming.
-- Python is easy to get started compared to JavaScript.
-- Python is easy to find new jobs compared to JavaScript in this year.
-- Python object-based is nearly equal to JavaScript, and python supports a programming style that uses simple functions and variables.
-  
+
