@@ -64,6 +64,11 @@ Then we should rearrange remainders from the left to the right starting from the
  # 23 Iyun 2021
 ## Differences between Interpreter and Compiler
 
+We generally write a computer program using a high-level language. A high-level language is one that is understandable by us, humans. This is called ***source code.
+
+However, a computer does not understand high-level language. It only understands the program written in 0's and 1's in binary, called the ***machine code.
+
+To convert source code into machine code, we use either a compiler or an interpreter.
 1. **Interpreter** translates just one statement of the program at a time into machine code.	**Compiler** scans the entire program and translates the whole of it into machine code at once.
  
 2.  An **interpreter** takes very less time to analyze the source code. However, the overall time to execute the process is much slower.	**A compiler** takes a lot of time to analyze the source code. However, the overall time taken to execute the process is much faster.
