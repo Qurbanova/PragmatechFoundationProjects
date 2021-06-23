@@ -98,3 +98,16 @@ To convert source code into machine code, we use either a compiler or an interpr
 - Python has an inbuilt REPL, whereas JavaScript does not have.
 - JavaScript runs on both browser and server, whereas python is mostly used for server-side programming.
 
+## Top 10 list of visual studio code extensions in 2020 for python.
+1. Python extension for Visual Studio Code
+2. TabNine
+3. Python Preview
+4. Indent-Rainbow
+5. Bracket Pair Colorizer
+6. Python Snippets
+7. Python Test Explorer for Visual Studio Code
+8. Better Comments
+9. autoDocstring
+10. Python Indent
+
+11. 
