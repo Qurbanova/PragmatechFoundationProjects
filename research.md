@@ -1,3 +1,4 @@
+# 22 Iyun 2021
 ### What i _transistor_ and how it works?
   A transistor is a 3 terminal electronic device made of semiconductor material. It has many uses like  amplification, switching, voltage regulation, and the modulation of signals. There are 2 types of BJT:
   
@@ -49,10 +50,7 @@ Then we should rearrange remainders from the left to the right starting from the
     
    >1*2('6)+0*2('5)+1*2('4)+0*2('3)+0*2('2)+1*2('1)+0*2('0)=64+0+16+0+0+2+0=82
     
-   > IT MEANS that **1010010**(binary)= **82** (decimal)
-    
-    
-
+   > IT MEANS that **1010010**(binary)= **82** (decimal)  
 
 [sources for transistors](https://www.explainthatstuff.com/howtransistorswork.) 
 
@@ -63,7 +61,7 @@ Then we should rearrange remainders from the left to the right starting from the
 [sources for conversion of numbers](https://www.youtube.com/watch?v=rsxT4FfRBaM)
 
 
- 
+ # 23 Iyun 2021
 
 
 
