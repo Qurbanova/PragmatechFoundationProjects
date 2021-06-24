@@ -110,4 +110,4 @@ To convert source code into machine code, we use either a compiler or an interpr
 9. autoDocstring
 10. Python Indent
 
-11. 
+## Terminal Commands
