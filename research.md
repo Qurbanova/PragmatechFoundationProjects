@@ -113,4 +113,6 @@ To convert source code into machine code, we use either a compiler or an interpr
 ## Terminal Commands
 - For creating new folder, we use **mkdir** command
 - For creating new file, we use    
-- > code -r.
+    - > code -r.
+    - > code -r code -r <path-to-working-directory>
+    - > ctrl + n // Windows/Linux
