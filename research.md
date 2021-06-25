@@ -150,8 +150,9 @@ Məsələn:
     
    
    ## Python Membership Operators
+   ```diff
      x = ["alma", "banan"]
-     print("banan" in x)
+     print("banan" blue in x)
      Nəticə doğrudur.Çünki belə bir element bu obyektin daxilində mövcuddur.
 
      print ('armud' not in x)
