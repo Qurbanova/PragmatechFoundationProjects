@@ -116,3 +116,10 @@ To convert source code into machine code, we use either a compiler or an interpr
     - > code -r.
     - > code -r code -r (path-to-working-directory)
     - > ctrl + n // Windows/Linux
+
+
+## 24 Iyun 2021
+## Python Identity Operators
+
+
+## Python Membership Operators
