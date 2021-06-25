@@ -39,7 +39,7 @@
 Then we should rearrange remainders from the left to the right starting from the last one. 
 
 > 00011
-> So, **35**(decimal)=**00011**(binary)
+> So, **35**(decimal)=**100011**(binary)
 
   ## *When i want to convert binary number to decimal number*
   1. We should write the degree of the digits from the left to the right
