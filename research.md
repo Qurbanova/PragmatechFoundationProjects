@@ -127,50 +127,32 @@ Məsələn:
     #IDENTITY OPERATORS "İS" and "IS NOT"
     
     x = ["alma", "banan"]
-   
-     y = ["alma", "banan"]
-   
-     z = x
+    y = ["alma", "banan"]
+    z = x
     
     print(x **is** z)
+    nəticə-> TRUE, çünki z x ilə eyni obyektdir.
 
-     nəticə-> TRUE, çünki z x ilə eyni obyektdir.
+    print(x **is not** z)
+    nəticə-> FALSE. Çünki x ilə z eyni obyektdir.
 
-
-
-     print(x **is not** z)
-  
-     nəticə-> FALSE. Çünki x ilə z eyni obyektdir.
-
-
-
-     print(x **is not** y)
-
+    print(x **is not** y)
     nəticə TRUE. Çünki x ilə y fərqli obyeklerdir, içərisindəki elementlerin eyni olmasına baxmayaraq.
 
-
     print(x **is** y)
-
     Nəticə--> FALSE. Bu obyeklerin elementleri eyni olsa da,özleri ferqli elementlerdir. Onun üçün də eyni(bərabər) sayıla bilməzlər.
 
-
     print(x==y)
-
     Bu doğrudur.İdentity oparatorlarından fərqli olaraq Comparison operatoru ilə müqayisədə x və y bərabərdir, çünki daxildindəki elementler bərabərdirlər.
 
-
     print(x != y)
-
     Bu isə yanlışdır. Comparison oparatoru ilə müqayisə olunduqda x və y bərabərdir. Çünki onların elementləri bərabərdir.`
     
    
    ## Python Membership Operators
-     x = ["alma", "banan"]
-     
-    print("banan" in x)
-
+        x = ["alma", "banan"]
+         print("banan" in x)
     Nəticə doğrudur.Çünki belə bir element bu obyektin daxilində mövcuddur.
-
 
     print ('armud' not in x)
     Nəticə doğrudur. Çünki belə bir element obyektin daxilində mövcud deyil.
