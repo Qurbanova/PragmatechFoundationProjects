@@ -124,10 +124,10 @@ Bu operator yaddaş sahəsində eyni yeri tutan, bərabər olmayan eyni obyeklə
 Obyektlər eyni olduğu təqdirdə **"is"** operatoru bizə *TRUE* nəticəsini qaytarır. Əgər obyekler eyni deyilsə, o zaman  **"is not"** istifadə olunur və bizə *TRUE* nəticəsini qaytarır.
 Məsələn:
 
-  > #IDENTITY OPERATORS "İS" and "IS NOT"
-> x = ["alma", "banan"]
-> y = ["alma", "banan"]
-z = x
+  #IDENTITY OPERATORS "İS" and "IS NOT"
+     x = ["alma", "banan"]
+    y = ["alma", "banan"]
+    z = x
 print(x is z)
 # nəticə-> TRUE, çünki z x ilə eyni obyektdir.
 
