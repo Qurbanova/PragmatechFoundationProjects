@@ -162,8 +162,20 @@ Məsələn:
     print(x != y)
 
     Bu isə yanlışdır. Comparison oparatoru ilə müqayisə olunduqda x və y bərabərdir. Çünki onların elementləri bərabərdir.`
+    
+   
+   ## Python Membership Operators
+     x = ["alma", "banan"]
+     
+    print("banan" in x)
+
+    Nəticə doğrudur.Çünki belə bir element bu obyektin daxilində mövcuddur.
+
+
+    print ('armud' not in x)
+    Nəticə doğrudur. Çünki belə bir element obyektin daxilində mövcud deyil.
 
 
 
 
-## Python Membership Operators
+
