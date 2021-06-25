@@ -130,38 +130,38 @@ Məsələn:
    
      y = ["alma", "banan"]
    
-    z = x
+     z = x
     
-print(x is z)
+    print(x is z)
 
- nəticə-> TRUE, çünki z x ilə eyni obyektdir.
-
-
-
-print(x is not z)
-
- nəticə-> FALSE. Çünki x ilə z eyni obyektdir.
+     nəticə-> TRUE, çünki z x ilə eyni obyektdir.
 
 
 
-print(x is not y)
-
- nəticə TRUE. Çünki x ilə y fərqli obyeklerdir, içərisindəki elementlerin eyni olmasına baxmayaraq.
-
-
-print(x is y)
-
-Nəticə--> FALSE. Bu obyeklerin elementleri eyni olsa da,özleri ferqli elementlerdir. Onun üçün də eyni(bərabər) sayıla bilməzlər.
+     print(x is not z)
+  
+     nəticə-> FALSE. Çünki x ilə z eyni obyektdir.
 
 
-print(x==y)
 
-Bu doğrudur.İdentity oparatorlarından fərqli olaraq Comparison operatoru ilə müqayisədə x və y bərabərdir, çünki daxildindəki elementler bərabərdirlər.
+   print(x is not y)
+
+   nəticə TRUE. Çünki x ilə y fərqli obyeklerdir, içərisindəki elementlerin eyni olmasına baxmayaraq.
 
 
-print(x != y)
+    print(x is y)
 
-Bu isə yanlışdır. Comparison oparatoru ilə müqayisə olunduqda x və y bərabərdir. Çünki onların elementləri bərabərdir.`
+    Nəticə--> FALSE. Bu obyeklerin elementleri eyni olsa da,özleri ferqli elementlerdir. Onun üçün də eyni(bərabər) sayıla bilməzlər.
+
+
+    print(x==y)
+
+    Bu doğrudur.İdentity oparatorlarından fərqli olaraq Comparison operatoru ilə müqayisədə x və y bərabərdir, çünki daxildindəki elementler bərabərdirlər.
+
+
+    print(x != y)
+
+    Bu isə yanlışdır. Comparison oparatoru ilə müqayisə olunduqda x və y bərabərdir. Çünki onların elementləri bərabərdir.`
 
 
 
