@@ -118,8 +118,35 @@ To convert source code into machine code, we use either a compiler or an interpr
     - > ctrl + n // Windows/Linux
 
 
-## 24 Iyun 2021
-## Python Identity Operators
+# 24 Iyun 2021
+## Python Identity Operators -> 'is' and 'is not'
+Bu operator yaddaş sahəsində eyni yeri tutan, bərabər olmayan eyni obyekləri müqayisə etmək üçün istifadə olunur. 
+Obyektlər eyni olduğu təqdirdə **"is"** operatoru bizə *TRUE* nəticəsini qaytarır. Əgər obyekler eyni deyilsə, o zaman  **"is not"** istifadə olunur və bizə *TRUE* nəticəsini qaytarır.
+Məsələn:
+`
+#IDENTITY OPERATORS "İS" and "IS NOT"
+ x = ["alma", "banan"]
+y = ["alma", "banan"]
+z = x
+print(x is z)
+# nəticə-> TRUE, çünki z x ilə eyni obyektdir.
+
+print(x is not z)
+# nəticə-> FALSE. Çünki x ilə z eyni obyektdir.
+
+print(x is not y)
+# nəticə TRUE. Çünki x ilə y fərqli obyeklerdir, içərisindəki elementlerin eyni olmasına baxmayaraq.
+
+print(x is y)
+# Nəticə--> FALSE. Bu obyeklerin elementleri eyni olsa da,özleri ferqli elementlerdir. Onun üçün də eyni(bərabər) sayıla bilməzlər.
+
+print(x==y)
+#Bu doğrudur.İdentity oparatorlarından fərqli olaraq Comparison operatoru ilə müqayisədə x və y bərabərdir, çünki daxildindəki elementler bərabərdirlər.
+
+print(x != y)
+#Bu isə yanlışdır. Comparison oparatoru ilə müqayisə olunduqda x və y bərabərdir. Çünki onların elementləri bərabərdir.`
+
+
 
 
 ## Python Membership Operators
