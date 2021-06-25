@@ -144,12 +144,12 @@ Məsələn:
 
 
 
-     print(x is not y)
+     print(x **is not** y)
 
     nəticə TRUE. Çünki x ilə y fərqli obyeklerdir, içərisindəki elementlerin eyni olmasına baxmayaraq.
 
 
-    print(x is y)
+    print(x **is** y)
 
     Nəticə--> FALSE. Bu obyeklerin elementleri eyni olsa da,özleri ferqli elementlerdir. Onun üçün də eyni(bərabər) sayıla bilməzlər.
 
