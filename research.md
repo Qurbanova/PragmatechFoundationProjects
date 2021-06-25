@@ -150,12 +150,12 @@ Məsələn:
     
    
    ## Python Membership Operators
-        x = ["alma", "banan"]
-         print("banan" in x)
-    Nəticə doğrudur.Çünki belə bir element bu obyektin daxilində mövcuddur.
+     x = ["alma", "banan"]
+     print("banan" in x)
+     Nəticə doğrudur.Çünki belə bir element bu obyektin daxilində mövcuddur.
 
-    print ('armud' not in x)
-    Nəticə doğrudur. Çünki belə bir element obyektin daxilində mövcud deyil.
+     print ('armud' not in x)
+     Nəticə doğrudur. Çünki belə bir element obyektin daxilində mövcud deyil.
 
 
 
