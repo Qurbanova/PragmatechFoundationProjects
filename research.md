@@ -157,7 +157,8 @@ Məsələn:
      print ('armud' not in x)
      Nəticə doğrudur. Çünki belə bir element obyektin daxilində mövcud deyil.
 
-
+#26 Iyun 2021
+##void və return function nədir?
 
 
 
