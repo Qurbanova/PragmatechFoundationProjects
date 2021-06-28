@@ -162,4 +162,9 @@ Məsələn:
 ### parametr və arqument nədir?
 ### default parametr nədir?
 ### dict, list və tuple nədir? Hansı hallarda istifadə olunur?
+ - ***List*** bir dəyişəndə bir neçə element saxlamaq üçün istifadə olunur.[]- kvadrat mötərizə daxilində yazılır.List elementlerinin *index* i olur. Birinci elementin index i [0]  ikinci  elementin index [1] və s.
+ - List  sifariş edilmiş və dəyişdirilə bilən bir kolleksiyadır. Təkrarlanan üzvlərə icazə verilir.
+  - Tuple, sifarişli və dəyişdirilməz bir kolleksiyadır. Təkrarlanan üzvlərə icazə verilir.
+  - Set, sıralanmamış və indekssiz bir kolleksiyadır. Təkrarlanan üzv yoxdur.
+  - Dictionary sifariş edilmiş və dəyişdirilə bilən bir kolleksiyadır. Təkrarlanan üzv yoxdur.
 ### python dövrlər nədir?
