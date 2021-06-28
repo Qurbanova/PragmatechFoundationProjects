@@ -158,7 +158,8 @@ Məsələn:
      Nəticə doğrudur. Çünki belə bir element obyektin daxilində mövcud deyil.
 
 #26 Iyun 2021
-##void və return function nədir?
-
-
-
+## void və return function nədir?
+## parametr və arqument nədir?
+## default parametr nədir?
+## dict, list və tuple nədir? Hansı hallarda istifadə olunur?
+## python dövrlər nədir?
