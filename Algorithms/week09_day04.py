@@ -6,10 +6,10 @@
                     #GOOD LUCK FOR ME ! 
 
 #FUNCTIONS
-def my_function():
-    print('hello from a function!')
+# def my_function():
+#     print('hello from a function!')
 
-my_function() 
+# my_function() 
 
 ''' def lst():
     lst=[]
@@ -52,17 +52,22 @@ x=hefteninGunleri(eded)
 if x[0]=='F':
     print('cume gunu') '''
 
-def last_element(my_list):
-  if len(my_list)>0:
-      for i in my_list:
-        #i=my_list[-1]
-        return(i)
-last_element([1,2,3])
-print(last_element)
+# def last_element(my_list):
+#     if my_list:
+#         return my_list[-1]
+#     return None
+# print(last_element([1,2]))
+
+even_list=[]
+def even_element(my_list):
+    for i in my_list:
+        if i%2==0:
+            even_list.append(i)
 
 
-
-    
+even_element([1,2,3,4,5,6,7,8])
+even_element([10,5,6,367,6])
+print(even_list)
 
 
 ''' def topla(my_list):
