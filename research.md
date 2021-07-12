@@ -166,6 +166,23 @@ Məsələn:
 # 26 Iyun 2021
 ### void və return function nədir?
 ### parametr və arqument nədir?
+  **Arqument** funksiyaın adından sonra mötərizə içərisində yazılır və funksiyanın dəyəri sayılır, dəyişmir.
+  **Parametr** isə funksiya çağırılanda arqument kimi eynilə funksiyanın adlandırmasından sonra mötərizədə yazılır(çox zaman string olduğuna görə dırnaq arasında). Parametr istənilən dəyişən ola bilər. Bir funksiyanın bir neçə parametri ola bilər. Xususi halda bir neçə parametr arasında seçim etdikdə * işarəsindən istifadə olunur parametrinin arqumentinin qarşısında.
+      
+      Məsələn:
+      def my_function(*fruit):
+    print("My fav fruit is"+"  "+ fruit[2])
+    my_function('apple','banana', 'cherry')
+Bu zaman nəticə olacaq: 
+        My fav fruit is  cherry.
+
+ Əgər funksiyanın biredən çox arqumenti varsa, bu zaman **arg**  dan istifadə olunur. 
+    
+    Məsələn:
+    def my_function(**std):
+    print("Student's first name is" + "  "+ std["sname"] +'  '+ "and the student id is" + "  "+ std["sid"])
+    my_function(sname='Gunel', sid='one')
+
 ### default parametr nədir?
 ### dict, list və tuple nədir? Hansı hallarda istifadə olunur?
  - ***List*** bir dəyişəndə bir neçə element saxlamaq üçün istifadə olunur.[]- kvadrat mötərizə daxilində yazılır.List elementlerinin *index* i olur. Birinci elementin index i [0]  ikinci  elementin index [1] və s.
