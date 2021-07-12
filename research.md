@@ -198,3 +198,26 @@ Pythonda dövrlər yartmaq üçün **for** və **while** dan istifadə olunur.
 
 
 # 12 İyul 2021
+***Lambda funksiya nədir və nə zaman istifadə oluna bilər?***
+Lambda anonim funksiyadır, yəni adı yoxdur. Bir funksiyanın içərisində başqa bir anonim funksiyanı  daxil etmək istədikdə istifadə olunur.
+      
+      Məsələn:
+      def myfunc(n):
+    return lambda a : a * n
+
+      mydoubler = myfunc(2)
+
+    print(mydoubler(11))
+
+***Adi funksiyadan nə ilə fərqlənir?***
+Adi funksiyadan fərqi odur ki, biz burada 1 expression ilə  istədiyimiz qədər arqumentdən istifadə edə bilərik. Məsələn:
+   
+     1)
+    x = lambda a, b : a * b
+    print(x(5, 6))
+    Result:30
+    
+    2)
+    x = lambda a, b, c : a + b + c
+    print(x(5, 6, 2))
+    result:13
