@@ -191,4 +191,10 @@ Bu zaman nəticə olacaq:
   - Set, sıralanmamış və indekssiz bir kolleksiyadır. Təkrarlanan üzv yoxdur.
   - Dictionary sifariş edilmiş və dəyişdirilə bilən bir kolleksiyadır. Təkrarlanan üzv yoxdur.
 ### python dövrlər nədir?
->>>>>>> 8b6e4be3fd1ec7cfe20d610eed78248d74beb8f9
+Pythonda dövrlər yartmaq üçün **for** və **while** dan istifadə olunur.
+
+
+
+
+
+# 12 İyul 2021
