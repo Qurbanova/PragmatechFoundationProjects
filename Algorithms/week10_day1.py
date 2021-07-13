@@ -35,7 +35,7 @@
 # my_function(["apple", "banana", "cherry"])
      
 def my_function(x):
-       return 5 * x
+    return 5 * x
 
 print('The result is',(my_function(3)))
 print(my_function(5))
