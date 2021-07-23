@@ -234,8 +234,11 @@ Adi funksiyadan fərqi odur ki, biz burada 1 expression ilə  istədiyimiz qəd�
    3. ***İdentity***: Bir obyektə bənzərsiz bir ad verir və bir obyektin digər obyektlərlə qarşılıqlı əlaqəsini təmin edir.
 
   **Atribut və Method nədir?**
-  Bir sinifin özü ilə əlaqəli bir funksionallıq olmadığı təqdirdə heç bir faydası yoxdur. İşlevsellik, bu atributlarla əlaqəli məlumatlar və funksiyalar üçün qablar rolunu         oynayan atributları təyin etməklə müəyyən edilir. Bu funksiyalara metodlar deyilir
+  Bir class in  özü ilə əlaqəli bir funksionallıq olmadığı təqdirdə heç bir faydası yoxdur. Funksionallıq isə atributlar və methodlar sayəsində təmin olunur. Atributlara dəyər mənimsədilir və onlar data saxlamaq üçün container rolu oynayır. Methodlar isə class daxilindəki funksiyalardır.
   
 **def init nədir?**
+Bütün siniflərdə __init __ () adlı bir funksiya vardır və bu class initialize(başlanğıc) edildikdə həmişə yerinə yetirilir.
+__İnit __ () funksiyasından obyekt xassələrinə dəyərlər təyin etmək və ya obyekt yaradıldığı zaman edilməsi lazım olan digər əməliyyatlarıicra etmək üçün istifadə edirik.
 
 ***self*** **nədir?**
+Sinif metodlarının metod tərifində əlavə bir ilk parametri olmalıdır.Self parametri, sinfin cari nümunəsinə istinaddır və sinfə aid olan dəyişənlərə daxil olmaq üçün istifadə olunur. Əslində istədiyimiz formada adlandıra bilərik, lakin bestpractice elə self kimi adlandırmaqdır.
