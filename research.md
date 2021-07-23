@@ -229,12 +229,13 @@ Adi funksiyadan fərqi odur ki, biz burada 1 expression ilə  istədiyimiz qəd�
 
   **Obyekt nədir?**
   Obyekt=instance of the class(Obyekt Class in elementidir) Obyekt 3 hissədən ibarətdir: 
- 1.***State***: Bir obyektin atributları ilə təmsil olunur. Həm də bir obyektin xüsusiyyətlərini əks etdirir.
- 2. ***Behaviour***: Bir obyektin metodları ilə təmsil olunur. Həm də bir obyektin digər obyektlərə cavabını əks etdirir
- 3.***İdentity***: Bir obyektə bənzərsiz bir ad verir və bir obyektin digər obyektlərlə qarşılıqlı əlaqəsini təmin edir.
+       1.***State***: Bir obyektin atributları ilə təmsil olunur. Həm də bir obyektin xüsusiyyətlərini əks etdirir.
+       2. ***Behaviour***: Bir obyektin metodları ilə təmsil olunur. Həm də bir obyektin digər obyektlərə cavabını əks etdirir
+       3.***İdentity***: Bir obyektə bənzərsiz bir ad verir və bir obyektin digər obyektlərlə qarşılıqlı əlaqəsini təmin edir.
 
   **Atribut və Method nədir?**
   Bir sinifin özü ilə əlaqəli bir funksionallıq olmadığı təqdirdə heç bir faydası yoxdur. İşlevsellik, bu atributlarla əlaqəli məlumatlar və funksiyalar üçün qablar rolunu         oynayan atributları təyin etməklə müəyyən edilir. Bu funksiyalara metodlar deyilir
   
 **def init nədir?**
+
 ***self*** **nədir?**
